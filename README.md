@@ -23,10 +23,16 @@ Link to [Dataset](https://raw.githubusercontent.com/guipsamora/pandas_exercises/
 ## Challenge Questions:
 
 1.See the first 10 entries.
+
 2.Delete the columns 'Unnamed: 0' and 'Id'.
+
 3.Group the dataset by name, assign to a variable called names, and sort the dataset by highest to lowest count.
+
 4.How many different names exist in the dataset?
+
 5.What is the name with most occurrences?
+
 6.What is the standard deviation of count of names?
+
 7.Get a summary of the dataset with the mean, min, max, std and quartiles.
 
